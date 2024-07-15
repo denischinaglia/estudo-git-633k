@@ -1,0 +1,44 @@
+div {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 22px;
+
+}
+
+h2 {
+
+    text-align: center;
+    font-size: 18px;
+    color: #88100f;
+    font-weight: normal;
+
+}
+
+h3 {
+
+    color: #88100f;
+    ;
+    text-decoration: underline;
+    font-size: 16px;
+
+}
+
+p {
+
+    font-size: 14px;
+    line-height: 28px;
+
+}
+
+img{
+
+border-color: #88100f;
+border-style: dashed;
+
+}
